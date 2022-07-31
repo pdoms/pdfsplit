@@ -1,11 +1,12 @@
 # Pdf_Split
+ 
 A lightweight app to split pdf into separate files. Easy to use as it comes with a graphical user interface.
 
 ## Installation
 
-**1. [Install](https://www.rust-lang.org/tools/install) the Rust programming language**
-**2. Clone this repository**<br>
-**3. Build by running the below command**<br>
+1. [Install](https://www.rust-lang.org/tools/install) the Rust programming language
+2. Clone this repository
+3. Build by running the below command
 &nbsp;&nbsp;&nbsp;&nbsp; `cargo build --release`
 
 ## Usage
